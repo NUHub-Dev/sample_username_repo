@@ -31,7 +31,7 @@
 "login": "ashaferbar754"
 
 "nameid": "Tiffany.Cook@newcastle.ac.uk"
-"username": "None"
+"username": null
 "login": "tcookbuzz497"
 
 "nameid": "Brandon.Cook@newcastle.ac.uk"
@@ -39,19 +39,19 @@
 "login": "bcookfoo675"
 
 "nameid": "NZQ7G1hTdbPlIgQn0lrAAPez_u68dwTlRfWmQXIeNCA"
-"username": "None"
+"username": null
 "login": "jkuhnkebuzz963"
 
 "nameid": "xR8GwKBcd4mbadxqt7kFEV5EMGZokUEuj2cJJ3Ef4JO"
-"username": "None"
+"username": null
 "login": "tdunaganfoo412"
 
 "nameid": "Bonita.Buck@newcastle.ac.uk"
-"username": "None"
+"username": null
 "login": "bbuckfizz644"
 
 "nameid": "Noble.Herod@newcastle.ac.uk"
-"username": "None"
+"username": null
 "login": "nherodbar768"
 
 "nameid": "Charlotte.Steelman@newcastle.ac.uk"
@@ -66,13 +66,11 @@
 "username": "m.myles808@newcastle.ac.uk"
 "login": "mmylesfizz352"
 
-"nameid": "None"
+"nameid": null
 "username": "j.sloan474@newcastle.ac.uk"
-"login": "None"
 
-"nameid": "None"
+"nameid": null
 "username": "t.joseph631@newcastle.ac.uk"
-"login": "None"
 
 "nameid": "dAnPTQ5vzqRqwJ6BiRXQ5yYcUXpgaScAi7-uCV6M6re"
 "username": "s.trudeau978@newcastle.ac.uk"
