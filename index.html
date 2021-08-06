@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>  
+<script type="text/javascript" src="search_org.js"></script>
+</head>
+
+<body>
+
+<h1>Search for person in Organization</h1>
+
+<form>
+Type in b number or username to search: <input type="string" id = "searchBox"><br>
+<button type="button" onclick="search(document.getElementById('searchBox').value)">Search</button> 
+</form>
+
+<!-- What to display if the person is in the organization -->
+<div id = "searchResults" style = "display: none">
+	<p id="nameid">University email:</p>
+	<p id="username">B number:</p>
+	<p id="login">Github username:</p>
+</div>
+
+<!-- What to display if the person is not in the organization -->
+<div id = "notInOrg" style = "display: none">
+	<p style = "color:red">They are not inside the organization</p>
+	<ul>
+		<li>Reason 1</li>
+		<li>Reason 2</li>
+	</ul>
+</div>
+
+</body>
+</html>
