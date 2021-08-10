@@ -2,7 +2,6 @@
 /**
  * Function to search through 'names.json' file, searching for a given name.
  * Once the person is found the nameid, username and login are presented to the user.
- * bump.
  */
 async function search(word){
 	var found = false;
